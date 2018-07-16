@@ -13,3 +13,5 @@ $('#button').on('click', event => {
 
 반대로 -50px 만큼의 위치를 나타내는 "-=50" 또한 가능하다.
 
+이곳에서 실시간으로 code snippet을 확인 할 수 있다. => https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_animation1_relative
+
