@@ -20,7 +20,3 @@ function todayILearned {
 
 - 부드럽게
 - 써지네요
-
-
-
-gi
