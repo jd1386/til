@@ -24,8 +24,8 @@ $('#button').on('click', () => {
 ```javascript
 $('#button').on('click', () => {
   $('.example').css({
-    "background-color": "yellow",
-    "font-size": "20px"
+    backgroundColor: "yellow",
+    fontSize: "20px"
   }); 
 });
 ```
