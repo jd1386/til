@@ -23,3 +23,4 @@ function todayILearned {
 
 
 
+gi
